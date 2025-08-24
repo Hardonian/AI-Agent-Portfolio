@@ -14,98 +14,41 @@ I hope you find something here that sparks insight or inspiration.
 
 **Email**: scottrmhardie@gmail.com
 
----
+# MindStudio Agent Portfolio
 
-#### **My MindStudio Workforce**
-A collection of AI agents and their associated workflows and tools designed for various tasks within various organizations, built and managed using the MindStudio platform.
-
----
-
-### **Mini Documentary Creator**
-
-**Description:** Transform any topic into compelling documentary-style content with structured narratives, key talking points, and engaging storytelling frameworks.
-
-**Key Features:**
-Creates documentary outlines with narrative arcs
-Generates research-backed talking points and segments
-Provides storytelling structure for engaging presentations
-
-**Use Case:** Develop educational content, training materials, or presentation narratives that captivate audiences whilst delivering complex information in an accessible, documentary-style format.
-
-🔗 [Check It Out](https://app.mindstudio.ai/agents/the-minidocumentary-creator-7d08b1df/remix)
+A curated collection of AI agents built with [MindStudio](https://app.mindstudio.ai), designed to solve real-world problems across content, marketing, research, and automation.  
+Each agent is **ready to remix**, adapt, and deploy into workflows for business and personal use.
 
 ---
 
-### **Simple Quote Generator**
+## 📌 Agent Directory
 
-**Description:** Generate inspiring and thought-provoking quotes instantly for any occasion, theme, or purpose with customisable styles and contexts.
-
-**Key Features:**
-Creates original motivational and inspirational quotes
-Offers various themes and categories to choose from
-Generates content suitable for different professional contexts
-
-**Use Case**: Enhance presentations, social media posts, or team communications with relevant, engaging quotes that resonate with your audience and reinforce key messages.
-
-🔗 [Check It Out](https://app.mindstudio.ai/agents/the-simple-quote-generator-005556ae/remix)
-
----
-
-### **Resume Keyword Analyser**
-
-**Description**: Optimise your CV for applicant tracking systems by identifying missing keywords, analysing industry alignment, and suggesting targeted improvements.
-
-**Key Features:**
-Scans resumes for industry-relevant keywords
-Provides ATS optimisation recommendations
-Suggests strategic keyword placement and density
-
-**Use Case:** Increase your chances of passing initial screening filters by ensuring your resume contains the right keywords for your target role, improving visibility to hiring managers.
-
-🔗 [Check It Out](https://app.mindstudio.ai/agents/resume-keyword-helper-34a2aec1/remix)
+| Agent | Description | Real-World Applications & Remix Potential | Link |
+|-------|-------------|-------------------------------------------|------|
+| **📄 TL;DR Any Webpage** | Summarizes long-form webpages into clear, digestible insights. | Great for market research, competitive analysis, or news monitoring. Remix to filter industry-specific blogs or auto-send summaries to a Slack channel. | [Remix](https://app.mindstudio.ai/agents/tldr-any-webpage-c453417c/remix) |
+| **✉️ Email Thread Summarizer** | Condenses lengthy email chains into actionable summaries. | Saves time for managers and sales teams by surfacing only what matters. Remix to auto-tag key stakeholders or integrate into CRM workflows. | [Remix](https://app.mindstudio.ai/agents/email-thread-summarizer-1dd44af0/remix) |
+| **📝 Blog Post Generator** | Turns ideas into structured, SEO-friendly blog posts. | Ideal for content marketing teams. Remix into a niche content engine for product reviews, tutorials, or industry thought-leadership posts. | [Remix](https://app.mindstudio.ai/agents/blog-post-generator-01dba53f/remix) |
+| **⚡ Dynamic Content Generator** | Creates personalized marketing or product content on demand. | Useful for ad copy testing, landing page personalization, or email campaigns. Remix into an A/B testing engine that tailors messaging per audience. | [Remix](https://app.mindstudio.ai/agents/dynamic-content-generator-beff9564/remix) |
+| **▶️ YouTube Video + Comment Summarizer** | Extracts insights from videos and viewer comments. | Perfect for social listening, influencer analysis, and product feedback. Remix to auto-generate competitor trend reports or content ideas. | [Remix](https://app.mindstudio.ai/agents/summarize-youtube-video--comments-05bce158/remix) |
+| **🛒 Product Page FAQ Generator** | Automatically generates FAQ content for ecommerce or SaaS. | Boosts SEO, improves conversions, and reduces support tickets. Remix to auto-update FAQs from live customer service chats. | [Remix](https://app.mindstudio.ai/agents/homeproduct-page-faq-generator-332574d6/remix) |
+| **🎯 Cold Outreach Email Generator** | Crafts personalized cold emails that resonate. | Perfect for sales, recruiting, or partnerships. Remix into a multi-touch campaign builder with automatic follow-ups. | [Remix](https://app.mindstudio.ai/agents/personalized-cold-outreach-email-generator-08133ec1/remix) |
+| **📚 Ask-the-Docs Chatbot** | Turns static documents into interactive Q&A assistants. | Streamlines onboarding, compliance, or internal knowledge bases. Remix into an employee helpdesk or product manual chatbot. | [Remix](https://app.mindstudio.ai/agents/-ask-the-docs-chat-bot-949335e6/remix) |
+| **💼 LinkedIn Post Generator** | Creates engaging, professional social posts. | Essential for personal branding, company pages, and recruiting. Remix to auto-pull highlights from reports and generate weekly industry updates. | [Remix](https://app.mindstudio.ai/agents/linkedin-post-generator-8127b943/remix) |
+| **👀 Website Change Monitor** | Tracks changes on any site and summarizes updates. | Great for competitor tracking, compliance monitoring, or SEO audits. Remix into a pricing monitor for ecommerce or stock news alert system. | [Remix](https://app.mindstudio.ai/agents/monitor-website-changes-20d90620/remix) |
+| **🧑 People Extractor** | Extracts names, roles, and companies into structured data. | Useful for lead generation, networking, and research. Remix into a CRM auto-filler or LinkedIn prospecting tool. | [Remix](https://app.mindstudio.ai/agents/people-extractor-5b1e412c/remix) |
+| **📬 Email Thread Summary (Alt)** | Alternative version for condensing email chains. | Can be adapted for different email platforms or integrations. Remix into an “executive digest” that delivers daily key email takeaways. | [Remix](https://app.mindstudio.ai/agents/email-thread-summary-4f79dd2f/remix) |
+| **💬 Slack Channel Weekly Summary** | Summarizes weekly activity in Slack channels. | Reduces noise and increases productivity. Remix into a project status reporter that pushes updates to Confluence, Jira, or Notion. | [Remix](https://app.mindstudio.ai/agents/slack-channel-weekly-summary-60cfed50/remix) |
+| **📰 Daily News Digest** | Compiles top news stories into a compact digest. | Great for exec briefings, niche industry updates, or investor reports. Remix into a branded daily newsletter for clients. | [Remix](https://app.mindstudio.ai/agents/daily-news-digest-7f035726/remix) |
+| **🔎 DeepDive Research Assistant** | Performs multi-source research and synthesizes insights. | Valuable for consultants, analysts, and students. Remix to generate market landscape reports or pitch decks with citations. | [Remix](https://app.mindstudio.ai/agents/deepdive-research-assistant-74923e22/remix) |
 
 ---
 
-### **TL;DR**
+## 🤝 Contributing
+- Fork this repo, remix agents, and submit PRs with your own creations.  
+- Suggest new agents or improvements via Issues.  
 
-**Description**: Cut through the noise and get to the core of any text instantly. This agent quickly extracts the most important details from articles, video and audio transcripts, reports, academic papers, or documents.
-
-**Key Features:**
-* Summarises long-form content (articles, video, audio, reports, papers)
-* Extracts key points for rapid understanding
-* Designed for efficient information consumption whilst browsing
-
-**Use Case**: Quickly grasp the main points of lengthy articles, research papers, or business reports without reading them in full, saving valuable time.
-
-🔗 [Check It Out](https://app.mindstudio.ai/agents/article-summarizer-46ae4d9e/remix)
+## 📜 License
+Licensed under MIT. Remix freely, contribute openly, and help grow the ecosystem.
 
 
----
-
-### **Professional Email Assistant**
-
-**Description**: Craft professional emails effortlessly. This simple AI agent helps you write clear, concise, and professional emails for any situation.
-
-**Key Features:**
-* Generates professional email drafts
-* Simplifies the email writing process
-* Ensures polite and appropriate tone
-
-**Use Case**: Draft a polite and professional email for any occasion, from business inquiries to formal requests, ensuring your message is well-received.
-
-🔗 [Check It Out](https://app.mindstudio.ai/agents/sales-outreach-assistant-ed8e7dd5/remix)
-
----
-
-### **Recipe Generator**
-
-**Description**: Turn your pantry staples into delicious meals. This simple recipe generator allows you to provide the ingredients you have on hand and instantly suggests a recipe.
-
-**Key Features:**
-* Generates recipes based on user-provided ingredients
-* Helps reduce food waste by utilising existing items
-* Inspires new meal ideas
-
-**Use Case**: Discover new recipes using only the ingredients you already have at home, perfect for quick dinners or using up leftovers efficiently.
-
-🔗 [Check It Out](https://app.mindstudio.ai/agents/ai-recipe-assistant-c4970835/remix)
+5/remix)
